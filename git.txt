@@ -1,0 +1,19 @@
+git 连接github
+git init
+git add
+git commit -m "写注释"
+git remote add orgin 仓库地址 //初次连接仓库
+git push -u orgin master //推送
+通常直接 git push就行
+
+克隆
+git clone <地址>
+$ git stash 不更新已有的
+$ git pull  执行更新
+
+日考流程：
+git init
+git status //查看修改的文件
+git add ./ 将当前目录下所有修改的文件添加
+git commit add orgin <网址>（初次连接使用）
+git push -u orgin master (初次推送分支)

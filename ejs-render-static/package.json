@@ -1,0 +1,17 @@
+{
+  "name": "ejs-render-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.11.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.2.1"
+  }
+}
