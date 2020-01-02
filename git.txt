@@ -11,6 +11,8 @@ git clone <地址>
 $ git stash 不更新已有的
 $ git pull  执行更新
 
+//李晓丹老师仓库 https://git.dev.tencent.com/lixiaodan610/1707d.git
+
 日考流程：
 git init
 git status //查看修改的文件
